@@ -1,0 +1,99 @@
+/* Colors and Fonts */
+
+body{
+  background: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color:  #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: #E20D47;
+  font-size: 22px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #E20D47;
+  text-decoration: none;
+}
+
+table{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+.ro{
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #D4D3D4;
+
+}
+
+.container{
+  width: 1000px;
+  margin: 50px auto;
+
+}
+
+.text-center{
+  text-align: center;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+
+.btn-red{
+  color: white;
+  background-color: red;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+
+.btn-red:hover{
+  color: white;
+}
+
+.list-inline{
+  padding-left: 0px;
+
+}
+
+
+.list-inline li{
+  padding: 20px;
+  display: inline-block;
+}
+.list-inline li i{
+  font-size: 25px;
+}
+
+
+
